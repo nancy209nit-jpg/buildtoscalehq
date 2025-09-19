@@ -93,8 +93,8 @@ export default function Home() {
                 </button>
               </form>
               <p className="mt-3 text-xs text-gray-500">
-                No spam — unsubscribe anytime. Free resource: "FAANG Pitch
-                Template" (Notion + Google Doc).
+                  No spam — unsubscribe anytime. Free resource: &quot;FAANG Pitch
+                  Template&quot; (Notion + Google Doc).
               </p>
             </div>
           </div>
