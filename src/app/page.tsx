@@ -1,5 +1,5 @@
 // src/app/page.tsx
-const FORM_ACTION = "https://formspree.io/f/your-form-id"; // <- replace with your form endpoint
+const FORM_ACTION = "https://formspree.io/f/mnnbepqg"; // "https://formspree.io/f/your-form-id"; // <- replace with your form endpoint
 const PRODUCT_LINK = "https://gumroad.com/l/your-product-id"; // <- replace with your product checkout link
 
 export default function Home() {
